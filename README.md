@@ -13,4 +13,9 @@ The script takes three parameters:
  - the third parameter is the path of a directory where the patched images will be created (default: "./9patch/");
    if it doesen't exist it will be created.
 
+Please feel free to suggest improvements or to report bugs or mistakes... :-)
+
 Enjoy!
+
+Marco Solari
+<marcossolari at gmail dot com>

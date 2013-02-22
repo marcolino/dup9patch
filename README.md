@@ -3,6 +3,8 @@ dup9patch
 
 Duplicate 9-patch image frame to other images (of the same size)
 
+Prerequisite: imagemagick tools
+
 This script duplicates the 9-patch information from an 9-patch image to a directory of "normal" (not-9-patched) images.
 Obviously the images must be all of the same kind (i.e.: size, scalable areas and fillable areas), otherwise
 this utlility is unuseful.
